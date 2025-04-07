@@ -1,0 +1,34 @@
+Make sure you have all the necessary libraries and dependencies installed
+
+Preinstall:
+
+Python download: https://www.python.org/downloads/ 
+Download version: 3.11.4
+
+While downloading, check mark Add to Environment variable 
+
+Then run the below commands:
+
+pip install scikit-learn
+pip install tensorflow
+pip install pandas
+pip install numpy
+pip install flask
+pip install yfinance
+pip install feedparser
+pip install scipy
+pip install plotly
+pip install streamlit 
+pip install pandas PILLOW feedparser
+pip install requests
+ pip install plotly
+pip install scipy scikit-learn
+
+
+ to run  everything from the folder that they are available in the same directory as the main file.
+
+To start the website:
+locate the path cd "C:\Users\bodap\Downloads\lstm ne
+streamlit run app.py  or 
+python -m streamlit run app.py
+ 
